@@ -1,0 +1,6 @@
+/current stage create admin dashboard 
+/it has not been protected
+/the path is localhost:8000/admin/dashboard 
+--
+/admin dashboard protected with route middleware
+/login form is ready for admin but not working
